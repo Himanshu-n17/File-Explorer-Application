@@ -36,7 +36,7 @@ It offers a simple, menu-driven interface to navigate, search, and manipulate fi
 2. **Changing The Current Directory :**
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/121b9a72-fb82-46d0-8f1c-041c3b06bd59" />
 
-3. **Listing all Files and Diretories :**
+3. **Listing all Files and Directories :**
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e9ba0199-8dc8-4590-9110-97f06e2b220d" />
 
 4. **Navigate to Parent and Home  Directory :**
