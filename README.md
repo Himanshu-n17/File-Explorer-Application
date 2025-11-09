@@ -62,19 +62,19 @@ It offers a simple, menu-driven interface to navigate, search, and manipulate fi
 10. **File Copying:**
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7de9f301-c6a1-434e-8af3-7f2fd833d56d" />
 
-12. **Moving/Renaming File :**
+11. **Moving/Renaming File :**
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bdc3fc41-4f14-4ecf-81b4-63910a9d3152" />
 
-13. **Search File:**
+12. **Search File:**
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f0e8a084-58ed-423e-a7d0-a3bbc8cff6f0" />
 
-14. **Change Permissions:**
+13. **Change Permissions:**
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6c4bef2d-1b61-4fea-98b7-ad23916c61b4" />
 
-15. **Display Permissions:**
+14. **Display Permissions:**
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/06cb301f-ed7f-465a-b4ff-7e32eb1df605" />
 
-16. **Exiting the Application:**
+15. **Exiting the Application:**
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6352d67b-12f8-4113-93bf-f41baab058e7" />
 ---
 
